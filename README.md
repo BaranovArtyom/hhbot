@@ -1,2 +1,3 @@
 # hhbot
-Head Hunter AI bot
+Head Hunter AI telegram bot
+
